@@ -10,6 +10,8 @@ For an AI teaching issue, separate released capability, previews, observed resul
 
 ## Draft with a purpose
 
+Use [the format guide](templates/FORMAT.md) with your own accepted issues. Keep the established structure while improving explanation and flow.
+
 Develop one useful AI thesis with grounded examples. Explain what the tool can actually do and give the reader a small experiment they can try. Keep the established greeting and substantial teaching format.
 
 Opening guidance: What is up people!
