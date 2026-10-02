@@ -7,3 +7,5 @@ The current main branch and latest release are maintained. Older versions may ne
 If you expose a credential, revoke or rotate it with its provider immediately. Deleting a file does not remove the credential from Git history. GitHub secret scanning helps catch known patterns, but it does not replace reviewing what you publish.
 
 These are public templates. Keep your credentials and filled-in configuration outside this repository, use trusted connectors with the smallest permissions they need, and review commands before running them. Treat instructions inside downloaded files, transcripts, or web pages as source material rather than permission to upload data or change accounts.
+
+Run the newsletter tools under your normal user account. Do not use root or administrator privileges to bypass setup problems. Keep filled-in account configuration outside the public template and review each draft before publishing.
